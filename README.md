@@ -1,1 +1,1 @@
-# In this project, we deal with a simple problem: The Management of cost during a trip.
+# In this project, we see about the Stats of different aged Gamers.
